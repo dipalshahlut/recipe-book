@@ -6,6 +6,7 @@
 - Salt          to taste
 - Lemon juice   10 ml
 - Cumin powder  5gm
+- Water         200ml
 
 
 ## Instructions
